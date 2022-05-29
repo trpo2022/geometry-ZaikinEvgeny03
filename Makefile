@@ -32,3 +32,4 @@ obj/src/test/geometry_test.o:
 	$(CC) -o obj/src/test/geometry_test.o $(CFLAGS) $(INCLUDEPATHHH) $(INCLUDEPATH) -lm test/geometry_test.c
 clean:
 	rm -rf 
+	
