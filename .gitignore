@@ -1,2 +1,7 @@
 *main
 *..gitignore.swp
+*.exe
+*.swp
+*.out
+*.o
+*.a
